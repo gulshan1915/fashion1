@@ -1,0 +1,115 @@
+.logo{
+    margin-top: 0px;
+}
+.navbar{
+    background-color: hotpink !important;
+    height: 51px !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+    float: left !important;
+    list-style-type: none !important;
+    text-decoration: none !important;
+}
+
+.fa-shopping-cart, .fa-user-circle-o{
+    font-size: 32px !important;
+}
+.fa-truck, .fa-headphones, .fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px !important;
+    color: white !important;
+}
+.fa-user, .fa-unlock-alt{
+    font-size: 30px !important;
+}
+h3{
+    color: hotpink !important;
+}
+.container{
+    margin-top: 10px;
+    justify-content: space-around;
+    box-shadow: 2px, 4px, 5px gray;
+}
+.col-sm{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    color: hotpink;
+    border: 0.5px solid grey;
+    margin: 10px;
+    box-shadow: 2px,4px, 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;  
+}
+.card1, .card2, .card3{
+    display: flex;
+    justify-content: space-around;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    color: hotpink;
+    box-shadow: 2px, 4px, 4px gray;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.main card{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.new arrivals, .features {
+    margin-top: 70px !important;
+}
+.features{
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+.card{
+    width: 200px !important;
+    height: 300px !important;
+    margin-right: 10px;
+}
+.card-text{
+    font-weight: bold;
+}
+.btn-primary{
+    width: 100%;
+    background-color: hotpink;
+}
+.btn{
+    background-color: hotpink;
+    color: black;
+}
+.heading{
+    background-color:hotpink;
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    color: white;
+}
+.heading>h1{
+    text-shadow: 2px, 2px, 4px hotpink;
+}
+
+.footer{
+    width: 100%;
+    background-color:black;
+    height: 100%;
+    color: white;
+    
+    
+}
+.footer bottom{
+    margin-left: 300px;
+    padding-left: 300px;
+    background-color: hotpink;
+    color: white;
+}
+
